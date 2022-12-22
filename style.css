@@ -1,0 +1,33 @@
+body {
+  padding: 0 0;
+  margin: 0 0;
+  color: black;
+  font-size: 20px;
+}
+
+main {
+  padding-top: 5em;
+}
+
+.nav-item {
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0 1em;
+}
+
+.nav-item a:hover {
+  opacity: 50%;
+}
+
+#currentPage {
+  color: orange;
+}
+
+#photo {
+  height: 20em;
+  width: auto;
+}
+
+.description {
+  visibility: hidden;
+}
